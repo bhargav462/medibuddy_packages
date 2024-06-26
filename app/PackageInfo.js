@@ -12,7 +12,7 @@ const PackageInfo = (props = {}) => {
               <p className="font-medium text-lg whitespace-pre-line line-clamp-2 mb-1">{data.packageDisplayName.replace(`${data.packageName} - `, '')}</p>
             </div>
             <p className="text-[13px] inline-flex mb-3">
-              <Image className="mr-1" src={"https://www.medibuddy.in/assets/icons/corpLabs/labs-reports-tat.svg"} width={14} height={14}/>
+              <Image alt="icon" className="mr-1" src={"https://www.medibuddy.in/assets/icons/corpLabs/labs-reports-tat.svg"} width={14} height={14}/>
               {data.reportsTatText}
             </p>
             <p className="text-[12px] mb-1"><b>{data.testCount}</b> Tests</p>
