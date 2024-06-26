@@ -26,8 +26,8 @@ export default function Home() {
   }
 
   return (
-    <div className="bg-[#E8F2FE]">
-      <div className="p-10">
+    <div className="bg-[#E8F2FE] min-h-[100vh]">
+      <div className="px-10 py-5">
         <p className="font-normal text-[22px]">Featured Health Check-up Packages</p>
         <div className="flex flex-wrap">
           {

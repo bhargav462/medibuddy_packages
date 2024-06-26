@@ -18,8 +18,8 @@ const PackageInfo = (props = {}) => {
             <p className="text-[12px] mb-1"><b>{data.testCount}</b> Tests</p>
             <ul className="list-disc list-inside pl-[10px] text-[#828282]">
               {
-                (data?.testsSummary || []).map((testSummary) => {
-                  return <li className="text-[12px] mb-1">{testSummary}</li>
+                (data?.testsSummary || []).map((testSummary, index) => {
+                  return <li key={index} className="text-[12px] mb-1">{testSummary}</li>
                 })
               }
             </ul>
