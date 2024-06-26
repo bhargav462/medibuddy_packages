@@ -1,0 +1,4399 @@
+[
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MB Pack 1",
+        "packageDisplayName": "MB Pack 1 - MediBuddy Health Wealth Package",
+        "packageCode": "MBCV038",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 35,
+        "maxAge": 60,
+        "gender": "Male",
+        "testCount": 45,
+        "consultationCount": 2,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [
+            "CENTRE VISIT"
+        ],
+        "instructions": [],
+        "tags": {
+            "topRightTag": ""
+        },
+        "fastingHoursText": "10 - 12 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "2D Echo/Doppler Study",
+            "Ultrasound & ECG"
+        ],
+        "packageId": 20937482,
+        "priceRange": 2925,
+        "price": 2250,
+        "estimatedPrice": 2250,
+        "contractId": 10386,
+        "visitType": [
+            "LabVisit"
+        ],
+        "currentVisitType": "LabVisit"
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MB Pack 2",
+        "packageDisplayName": "MB Pack 2 - MediBuddy Healthy Women Package",
+        "packageCode": "MBCV039",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 35,
+        "maxAge": 60,
+        "gender": "Female",
+        "testCount": 41,
+        "consultationCount": 3,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [
+            "CENTRE VISIT"
+        ],
+        "instructions": [],
+        "tags": {
+            "topRightTag": "",
+            "bottomTag": [
+                "Hurry! Flat 10% Off",
+                "Coupon code is LABS10"
+            ]
+        },
+        "fastingHoursText": "10 - 12 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "X-Ray Chest",
+            "Pap Smear - Liquid Based"
+        ],
+        "packageId": 20937483,
+        "priceRange": 2366,
+        "price": 1820,
+        "estimatedPrice": 1820,
+        "contractId": 10386,
+        "visitType": [
+            "LabVisit"
+        ],
+        "currentVisitType": "LabVisit"
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MB Pack 3",
+        "packageDisplayName": "MB Pack 3 - MediBuddy Health Check with Ultrasound and ECG Male",
+        "packageCode": "MBCV040",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 15,
+        "maxAge": 35,
+        "gender": "Male",
+        "testCount": 43,
+        "consultationCount": 1,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [
+            "CENTRE VISIT"
+        ],
+        "instructions": [],
+        "tags": {
+            "topRightTag": ""
+        },
+        "fastingHoursText": "10 - 12 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "Ultrasound (Abdomen)",
+            "Electrocardiogram (ECG)"
+        ],
+        "packageId": 20937484,
+        "priceRange": 2496,
+        "price": 1920,
+        "estimatedPrice": 1920,
+        "contractId": 10386,
+        "visitType": [
+            "LabVisit"
+        ],
+        "currentVisitType": "LabVisit"
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MB Pack 4",
+        "packageDisplayName": "MB Pack 4 - MediBuddy Complete Body Health check with Eye and Cancer Screening Male",
+        "packageCode": "MBCV041",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 40,
+        "maxAge": 99,
+        "gender": "Male",
+        "testCount": 60,
+        "consultationCount": 4,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [],
+        "instructions": [],
+        "tags": {
+            "topRightTag": ""
+        },
+        "fastingHoursText": "10 - 12 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "Bilirubin Profile (Total, Direct & Indirect) - Serum",
+            "Blood Grouping & Rh Type - EDTA Whole Blood"
+        ],
+        "packageId": 20937794,
+        "priceRange": 6669,
+        "price": 5130,
+        "estimatedPrice": 5130,
+        "contractId": 10386,
+        "visitType": [
+            "LabVisit"
+        ],
+        "currentVisitType": "LabVisit"
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MB Pack 5",
+        "packageDisplayName": "MB Pack 5 - MediBuddy Kidney, Liver & Blood Health Check Kids Pack",
+        "packageCode": "MBCV042",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 5,
+        "maxAge": 15,
+        "gender": "Both",
+        "testCount": 37,
+        "consultationCount": 4,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [],
+        "instructions": [],
+        "tags": {
+            "topRightTag": ""
+        },
+        "fastingHoursText": "06 - 08 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "Bilirubin Profile (Total, Direct & Indirect) - Serum",
+            "Blood Grouping & Rh Type - EDTA Whole Blood"
+        ],
+        "packageId": 20937795,
+        "priceRange": 1469,
+        "price": 1130,
+        "estimatedPrice": 1130,
+        "contractId": 10386,
+        "visitType": [
+            "LabVisit"
+        ],
+        "currentVisitType": "LabVisit"
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MB Pack 6",
+        "packageDisplayName": "MB Pack 6 - MediBuddy Full Body Healthcheck with Thyroid & Cancer Test Female",
+        "packageCode": "MBCV043",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 40,
+        "maxAge": 99,
+        "gender": "Female",
+        "testCount": 62,
+        "consultationCount": 3,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [],
+        "instructions": [],
+        "tags": {
+            "topRightTag": ""
+        },
+        "fastingHoursText": "10 - 12 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "Bilirubin Profile (Total, Direct & Indirect) - Serum",
+            "Complete Blood Count (CBC) - EDTA Whole Blood"
+        ],
+        "packageId": 20937796,
+        "priceRange": 7930,
+        "price": 6100,
+        "estimatedPrice": 6100,
+        "contractId": 10386,
+        "visitType": [
+            "LabVisit"
+        ],
+        "currentVisitType": "LabVisit"
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MB Pack 7",
+        "packageDisplayName": "MB Pack 7 - MediBuddy Simple Health Screening with X-Ray Male",
+        "packageCode": "MBCV044",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 40,
+        "maxAge": 99,
+        "gender": "Male",
+        "testCount": 43,
+        "consultationCount": 1,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [],
+        "instructions": [],
+        "tags": {
+            "topRightTag": ""
+        },
+        "fastingHoursText": "10 - 12 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "Bilirubin Profile (Total, Direct & Indirect) - Serum",
+            "Complete Blood Count (CBC) - EDTA Whole Blood"
+        ],
+        "packageId": 20937797,
+        "priceRange": 2444,
+        "price": 1880,
+        "estimatedPrice": 1880,
+        "contractId": 10386,
+        "visitType": [
+            "LabVisit"
+        ],
+        "currentVisitType": "LabVisit"
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MB Pack 8",
+        "packageDisplayName": "MB Pack 8 - MediBuddy Body HealthCheck with Cancer Screening Female",
+        "packageCode": "MBCV045",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 15,
+        "maxAge": 35,
+        "gender": "Female",
+        "testCount": 55,
+        "consultationCount": 3,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [],
+        "instructions": [],
+        "tags": {
+            "topRightTag": ""
+        },
+        "fastingHoursText": "10 - 12 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "Bilirubin Profile (Total, Direct & Indirect) - Serum",
+            "Blood Grouping & Rh Type - EDTA Whole Blood"
+        ],
+        "packageId": 20937800,
+        "priceRange": 4394,
+        "price": 3380,
+        "estimatedPrice": 3380,
+        "contractId": 10386,
+        "visitType": [
+            "LabVisit"
+        ],
+        "currentVisitType": "LabVisit"
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MB Pack 9",
+        "packageDisplayName": "MB Pack 9 - MediBuddy Super Women Health Checkup with X-Rays Female",
+        "packageCode": "MBCV046",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 35,
+        "maxAge": 60,
+        "gender": "Female",
+        "testCount": 59,
+        "consultationCount": 3,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [],
+        "instructions": [],
+        "tags": {
+            "topRightTag": ""
+        },
+        "fastingHoursText": "10 - 12 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "Bilirubin Profile (Total, Direct & Indirect) - Serum",
+            "Blood Grouping & Rh Type - EDTA Whole Blood"
+        ],
+        "packageId": 20939219,
+        "priceRange": 5200,
+        "price": 4000,
+        "estimatedPrice": 4000,
+        "contractId": 10386,
+        "visitType": [
+            "LabVisit"
+        ],
+        "currentVisitType": "LabVisit"
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MB Pack 10",
+        "packageDisplayName": "MB Pack 10 - MediBuddy Overall Health Checkup with Cancer & Thyroid Tests Female",
+        "packageCode": "MBCV047",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 40,
+        "maxAge": 99,
+        "gender": "Female",
+        "testCount": 60,
+        "consultationCount": 5,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [],
+        "instructions": [],
+        "tags": {
+            "topRightTag": ""
+        },
+        "fastingHoursText": "10 - 12 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "Bilirubin Profile (Total, Direct & Indirect) - Serum",
+            "Blood Grouping & Rh Type - EDTA Whole Blood"
+        ],
+        "packageId": 20939220,
+        "priceRange": 1469,
+        "price": 1130,
+        "estimatedPrice": 1130,
+        "contractId": 10386,
+        "visitType": [
+            "LabVisit"
+        ],
+        "currentVisitType": "LabVisit"
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MB Pack 11",
+        "packageDisplayName": "MB Pack 11 - MediBuddy Primary Plus Health Check with Xray & ECG",
+        "packageCode": "MBCV048",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 20,
+        "maxAge": 40,
+        "gender": "Male",
+        "testCount": 36,
+        "consultationCount": 2,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [
+            "CENTRE VISIT"
+        ],
+        "instructions": [],
+        "tags": {
+            "topRightTag": ""
+        },
+        "fastingHoursText": "10 - 12 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "X-Ray Chest",
+            "Electrocardiogram (ECG)"
+        ],
+        "packageId": 20939221,
+        "priceRange": 1365,
+        "price": 1050,
+        "estimatedPrice": 1050,
+        "contractId": 10386,
+        "visitType": [
+            "LabVisit"
+        ],
+        "currentVisitType": "LabVisit"
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MB Pack 12",
+        "packageDisplayName": "MB Pack 12 - MediBuddy Extensive Women Health Check",
+        "packageCode": "MBCV049",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 20,
+        "maxAge": 40,
+        "gender": "Female",
+        "testCount": 46,
+        "consultationCount": 3,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [
+            "CENTRE VISIT"
+        ],
+        "instructions": [],
+        "tags": {
+            "topRightTag": ""
+        },
+        "fastingHoursText": "10 - 12 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "Ultrasound & ECG",
+            "Creatinine - Serum"
+        ],
+        "packageId": 20939222,
+        "priceRange": 2041,
+        "price": 1570,
+        "estimatedPrice": 1570,
+        "contractId": 10386,
+        "visitType": [
+            "LabVisit"
+        ],
+        "currentVisitType": "LabVisit"
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MB Pack 13",
+        "packageDisplayName": "MB Pack 13 - MediBuddy Women Health Check",
+        "packageCode": "MBCV050",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 40,
+        "maxAge": 99,
+        "gender": "Female",
+        "testCount": 34,
+        "consultationCount": 3,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [
+            "CENTRE VISIT"
+        ],
+        "instructions": [],
+        "tags": {
+            "topRightTag": "",
+            "bottomTag": [
+                "Hurry! Flat 10% Off",
+                "Coupon code is LABS10"
+            ]
+        },
+        "fastingHoursText": "10 - 12 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "Complete Blood Count (CBC) - EDTA Whole Blood",
+            "2D Echo/Doppler Study"
+        ],
+        "packageId": 20939223,
+        "priceRange": 2444,
+        "price": 1880,
+        "estimatedPrice": 1880,
+        "contractId": 10386,
+        "visitType": [
+            "LabVisit"
+        ],
+        "currentVisitType": "LabVisit"
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MB Pack 14",
+        "packageDisplayName": "MB Pack 14 - MediBuddy Primary Health Check with Thyroid Profile Young Male",
+        "packageCode": "MBCV051",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 20,
+        "maxAge": 50,
+        "gender": "Male",
+        "testCount": 49,
+        "consultationCount": 1,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [
+            "CENTRE VISIT"
+        ],
+        "instructions": [],
+        "tags": {
+            "topRightTag": ""
+        },
+        "fastingHoursText": "10 - 12 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "Thyroid Profile",
+            "ECG & X-Ray Chest"
+        ],
+        "packageId": 20939224,
+        "priceRange": 2340,
+        "price": 1800,
+        "estimatedPrice": 1800,
+        "contractId": 10386,
+        "visitType": [
+            "LabVisit"
+        ],
+        "currentVisitType": "LabVisit"
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MB Pack 15",
+        "packageDisplayName": "MB Pack 15 - MediBuddy Women Healthcheck with Cancer Screening",
+        "packageCode": "MBCV052",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 20,
+        "maxAge": 50,
+        "gender": "Female",
+        "testCount": 44,
+        "consultationCount": 3,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [
+            "CENTRE VISIT"
+        ],
+        "instructions": [],
+        "tags": {
+            "topRightTag": "",
+            "bottomTag": [
+                "Hurry! Flat 10% Off",
+                "Coupon code is LABS10"
+            ]
+        },
+        "fastingHoursText": "10 - 12 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "Bilirubin Profile (Total, Direct & Indirect) - Serum",
+            "Complete Blood Count (CBC) - EDTA Whole Blood"
+        ],
+        "packageId": 20939225,
+        "priceRange": 2080,
+        "price": 1600,
+        "estimatedPrice": 1600,
+        "contractId": 10386,
+        "visitType": [
+            "LabVisit"
+        ],
+        "currentVisitType": "LabVisit"
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MB Pack 16",
+        "packageDisplayName": "MB Pack 16 - MediBuddy Essential Healthcheck with X-Ray & Ultrasound Elderly Male",
+        "packageCode": "MBCV053",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 40,
+        "maxAge": 99,
+        "gender": "Male",
+        "testCount": 46,
+        "consultationCount": 1,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [
+            "CENTRE VISIT"
+        ],
+        "instructions": [],
+        "tags": {
+            "topRightTag": ""
+        },
+        "fastingHoursText": "10 - 12 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "Bilirubin Profile (Total, Direct & Indirect) - Serum",
+            "Complete Blood Count (CBC) - EDTA Whole Blood"
+        ],
+        "packageId": 20939226,
+        "priceRange": 2769,
+        "price": 2130,
+        "estimatedPrice": 2130,
+        "contractId": 10386,
+        "visitType": [
+            "LabVisit"
+        ],
+        "currentVisitType": "LabVisit"
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MB Pack 21",
+        "packageDisplayName": "MB Pack 21 - MediBuddy Extensive Health Screening for Elderly Women",
+        "packageCode": "MBCV058",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 40,
+        "maxAge": 99,
+        "gender": "Female",
+        "testCount": 58,
+        "consultationCount": 3,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [
+            "CENTRE VISIT"
+        ],
+        "instructions": [],
+        "tags": {
+            "topRightTag": "",
+            "bottomTag": [
+                "Hurry! Flat 10% Off",
+                "Coupon code is LABS10"
+            ]
+        },
+        "fastingHoursText": "10 - 12 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "Bilirubin Profile (Total, Direct & Indirect) - Serum",
+            "Blood Grouping & Rh Type - EDTA Whole Blood"
+        ],
+        "packageId": 20939231,
+        "priceRange": 5525,
+        "price": 4250,
+        "estimatedPrice": 4250,
+        "contractId": 10386,
+        "visitType": [
+            "LabVisit"
+        ],
+        "currentVisitType": "LabVisit"
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MB Pack 17",
+        "packageDisplayName": "MB Pack 17 - MediBuddy All Inclusive Healthcheck Young Female",
+        "packageCode": "MBCV054",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 20,
+        "maxAge": 45,
+        "gender": "Female",
+        "testCount": 42,
+        "consultationCount": 3,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [
+            "CENTRE VISIT"
+        ],
+        "instructions": [],
+        "tags": {
+            "topRightTag": "",
+            "bottomTag": [
+                "Hurry! Flat 10% Off",
+                "Coupon code is LABS10"
+            ]
+        },
+        "fastingHoursText": "10 - 12 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "Bilirubin Profile (Total, Direct & Indirect) - Serum",
+            "Complete Blood Count (CBC) - EDTA Whole Blood"
+        ],
+        "packageId": 20939227,
+        "priceRange": 3640,
+        "price": 2800,
+        "estimatedPrice": 2800,
+        "contractId": 10386,
+        "visitType": [
+            "LabVisit"
+        ],
+        "currentVisitType": "LabVisit"
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MB Pack 18",
+        "packageDisplayName": "MB Pack 18 - MediBuddy All Inclusive Healthcheck with Cancer Test & Dental Young Male",
+        "packageCode": "MBCV055",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 20,
+        "maxAge": 40,
+        "gender": "Male",
+        "testCount": 60,
+        "consultationCount": 4,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [
+            "CENTRE VISIT"
+        ],
+        "instructions": [],
+        "tags": {
+            "topRightTag": ""
+        },
+        "fastingHoursText": "10 - 12 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "Bilirubin Profile (Total, Direct & Indirect) - Serum",
+            "Complete Blood Count (CBC) - EDTA Whole Blood"
+        ],
+        "packageId": 20939228,
+        "priceRange": 4641,
+        "price": 3570,
+        "estimatedPrice": 3570,
+        "contractId": 10386,
+        "visitType": [
+            "LabVisit"
+        ],
+        "currentVisitType": "LabVisit"
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MB Pack 19",
+        "packageDisplayName": "MB Pack 19 - MediBuddy Full Body Healthcheck Elderly Women",
+        "packageCode": "MBCV056",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 40,
+        "maxAge": 99,
+        "gender": "Female",
+        "testCount": 50,
+        "consultationCount": 5,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [
+            "CENTRE VISIT"
+        ],
+        "instructions": [],
+        "tags": {
+            "topRightTag": "",
+            "bottomTag": [
+                "Hurry! Flat 10% Off",
+                "Coupon code is LABS10"
+            ]
+        },
+        "fastingHoursText": "10 - 12 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "Bilirubin Profile (Total, Direct & Indirect) - Serum",
+            "Blood Grouping & Rh Type - EDTA Whole Blood"
+        ],
+        "packageId": 20939229,
+        "priceRange": 4680,
+        "price": 3600,
+        "estimatedPrice": 3600,
+        "contractId": 10386,
+        "visitType": [
+            "LabVisit"
+        ],
+        "currentVisitType": "LabVisit"
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MB Pack 20",
+        "packageDisplayName": "MB Pack 20 - MediBuddy Extensive Health Screening for Elderly Male",
+        "packageCode": "MBCV057",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 40,
+        "maxAge": 99,
+        "gender": "Male",
+        "testCount": 55,
+        "consultationCount": 4,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [
+            "CENTRE VISIT"
+        ],
+        "instructions": [],
+        "tags": {
+            "topRightTag": ""
+        },
+        "fastingHoursText": "10 - 12 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "Bilirubin Profile (Total, Direct & Indirect) - Serum",
+            "Complete Blood Count (CBC) - EDTA Whole Blood"
+        ],
+        "packageId": 20939230,
+        "priceRange": 4290,
+        "price": 3300,
+        "estimatedPrice": 3300,
+        "contractId": 10386,
+        "visitType": [
+            "LabVisit"
+        ],
+        "currentVisitType": "LabVisit"
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MB Pack 22",
+        "packageDisplayName": "MB Pack 22 - MediBuddy Extensive Health Screening Elderly Female",
+        "packageCode": "MBCV059",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 40,
+        "maxAge": 99,
+        "gender": "Female",
+        "testCount": 61,
+        "consultationCount": 5,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [
+            "CENTRE VISIT"
+        ],
+        "instructions": [],
+        "tags": {
+            "topRightTag": "",
+            "bottomTag": [
+                "Hurry! Flat 10% Off",
+                "Coupon code is LABS10"
+            ]
+        },
+        "fastingHoursText": "10 - 12 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "Bilirubin Profile (Total, Direct & Indirect) - Serum",
+            "Complete Blood Count (CBC) - EDTA Whole Blood"
+        ],
+        "packageId": 20939232,
+        "priceRange": 6500,
+        "price": 5000,
+        "estimatedPrice": 5000,
+        "contractId": 10386,
+        "visitType": [
+            "LabVisit"
+        ],
+        "currentVisitType": "LabVisit"
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MediBuddy Mini Health Package - Male",
+        "packageDisplayName": "MediBuddy Mini Health Package - Male",
+        "packageCode": "MBCV004",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 0,
+        "maxAge": 99,
+        "gender": "Male",
+        "testCount": 76,
+        "consultationCount": 0,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [],
+        "instructions": [],
+        "tags": {
+            "topRightTag": ""
+        },
+        "fastingHoursText": "10 - 12 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "Complete Blood Count (CBC with P.Smear) - EDTA Whole Blood",
+            "Complete Urine Examination (CUE) - Spot Urine"
+        ],
+        "packageId": 18434525,
+        "priceRange": 3508,
+        "price": 2699,
+        "estimatedPrice": 2699,
+        "contractId": 10386,
+        "visitType": [
+            "LabVisit"
+        ],
+        "currentVisitType": "LabVisit"
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MediBuddy Mini Health Package - Female",
+        "packageDisplayName": "MediBuddy Mini Health Package - Female",
+        "packageCode": "MBCV005",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 0,
+        "maxAge": 99,
+        "gender": "Female",
+        "testCount": 63,
+        "consultationCount": 0,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [],
+        "instructions": [],
+        "tags": {
+            "topRightTag": ""
+        },
+        "fastingHoursText": "10 - 12 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "Complete Blood Count (CBC) - EDTA Whole Blood",
+            "Complete Urine Examination (CUE) - Spot Urine"
+        ],
+        "packageId": 18434526,
+        "priceRange": 4548,
+        "price": 3499,
+        "estimatedPrice": 3499,
+        "contractId": 10386,
+        "visitType": [
+            "LabVisit"
+        ],
+        "currentVisitType": "LabVisit"
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MediBuddy Master Health Package - Male",
+        "packageDisplayName": "MediBuddy Master Health Package - Male",
+        "packageCode": "MBCV007",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 0,
+        "maxAge": 99,
+        "gender": "Male",
+        "testCount": 83,
+        "consultationCount": 0,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [],
+        "instructions": [],
+        "tags": {
+            "topRightTag": ""
+        },
+        "fastingHoursText": "10 - 12 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "Complete Blood Count (CBC) - EDTA Whole Blood",
+            "Complete Urine Examination (CUE) - Spot Urine"
+        ],
+        "packageId": 18434528,
+        "priceRange": 7018,
+        "price": 5399,
+        "estimatedPrice": 5399,
+        "contractId": 10386,
+        "visitType": [
+            "LabVisit"
+        ],
+        "currentVisitType": "LabVisit"
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MediBuddy Master Health Package - Female",
+        "packageDisplayName": "MediBuddy Master Health Package - Female",
+        "packageCode": "MBCV006",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 0,
+        "maxAge": 99,
+        "gender": "Female",
+        "testCount": 83,
+        "consultationCount": 0,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [],
+        "instructions": [],
+        "tags": {
+            "topRightTag": ""
+        },
+        "fastingHoursText": "10 - 12 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "Complete Blood Count (CBC) - EDTA Whole Blood",
+            "Complete Urine Examination (CUE) - Spot Urine"
+        ],
+        "packageId": 18434527,
+        "priceRange": 7148,
+        "price": 5499,
+        "estimatedPrice": 5499,
+        "contractId": 10386,
+        "visitType": [
+            "LabVisit"
+        ],
+        "currentVisitType": "LabVisit"
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MediBuddy Healthy Heart Package",
+        "packageDisplayName": "MediBuddy Healthy Heart Package",
+        "packageCode": "MBCV001",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 0,
+        "maxAge": 99,
+        "gender": "Both",
+        "testCount": 77,
+        "consultationCount": 0,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [],
+        "instructions": [],
+        "tags": {
+            "topRightTag": ""
+        },
+        "fastingHoursText": "10 - 12 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "Complete Blood Count (CBC) - EDTA Whole Blood",
+            "Complete Urine Examination (CUE) - Spot Urine"
+        ],
+        "packageId": 18434522,
+        "priceRange": 6238,
+        "price": 4799,
+        "estimatedPrice": 4799,
+        "contractId": 10386,
+        "visitType": [
+            "LabVisit"
+        ],
+        "currentVisitType": "LabVisit"
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MediBuddy Healthy Bone Package",
+        "packageDisplayName": "MediBuddy Healthy Bone Package",
+        "packageCode": "MBCV010",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 0,
+        "maxAge": 99,
+        "gender": "Both",
+        "testCount": 49,
+        "consultationCount": 0,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [],
+        "instructions": [],
+        "tags": {
+            "topRightTag": ""
+        },
+        "fastingHoursText": "06 - 08 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "Complete Blood Count (CBC) - EDTA Whole Blood",
+            "Liver Function Test (LFT) - Serum"
+        ],
+        "packageId": 18434531,
+        "priceRange": 1560,
+        "price": 1200,
+        "estimatedPrice": 1200,
+        "contractId": 10386,
+        "visitType": [
+            "LabVisit"
+        ],
+        "currentVisitType": "LabVisit"
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": "MediBuddy Executive Health Checkup",
+        "packageDisplayName": "MediBuddy Executive Health Checkup",
+        "packageCode": "MBCV034",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 0,
+        "maxAge": 99,
+        "gender": "Both",
+        "testCount": 69,
+        "consultationCount": 0,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": false,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [],
+        "instructions": [],
+        "tags": {
+            "topRightTag": ""
+        },
+        "fastingHoursText": "10 - 12 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "Complete Urine Examination (CUE) - Spot Urine",
+            "Glycosylated Hemoglobin (HBA1c ) - EDTA Whole Blood"
+        ],
+        "packageId": 20458394,
+        "priceRange": 6987,
+        "price": 5375,
+        "estimatedPrice": 5375,
+        "contractId": 10386,
+        "visitType": []
+    },
+    {
+        "packageType": "HealthChecks",
+        "packageName": " Apollo Whole Body Checkup",
+        "packageDisplayName": " Apollo Whole Body Checkup",
+        "packageCode": "MBCV073",
+        "description": "",
+        "discount": 23,
+        "isSponsored": false,
+        "minAge": 40,
+        "maxAge": 99,
+        "gender": "Female",
+        "testCount": 101,
+        "consultationCount": 0,
+        "isHomeSampleAvailable": false,
+        "isRadiologyIncluded": true,
+        "isPopular": true,
+        "isCovidTest": false,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": false,
+        "discountInfo": {
+            "discountPrice": 0
+        },
+        "isCenterVisitPackage": true,
+        "subCategories": [],
+        "instructions": [],
+        "tags": {
+            "topRightTag": ""
+        },
+        "fastingHoursText": "10 - 12 Hrs",
+        "reportsTatText": "Reports in 24 - 48 Hrs",
+        "testsSummary": [
+            "Complete Urine Examination (CUE) - Spot Urine",
+            "Electrolytes (Na, K & CL) - Serum"
+        ],
+        "packageId": 28071390,
+        "priceRange": 11700,
+        "price": 9000,
+        "estimatedPrice": 9000,
+        "contractId": 10386,
+        "visitType": []
+    },
+    {
+        "packageType": "Investigation",
+        "packageName": "Influenza Virus (H3N2) RTPCR - SWAB",
+        "packageDisplayName": "Influenza Virus (H3N2) RTPCR - SWAB",
+        "packageCode": "BM1935",
+        "description": "",
+        "discount": 28,
+        "isSponsored": false,
+        "minAge": 0,
+        "maxAge": 99,
+        "gender": "Both",
+        "testCount": 0,
+        "consultationCount": 0,
+        "isHomeSampleAvailable": true,
+        "isRadiologyIncluded": false,
+        "isPopular": true,
+        "isCovidTest": true,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+        "discountPrice": 0
+        },
+        "isCenterVisitPackage": false,
+        "subCategories": [
+        "COVID 19"
+        ],
+        "instructions": [],
+        "tags": {
+        "topRightTag": ""
+        },
+        "reportsTatText": "Reports in 24-48 hrs",
+        "packageId": 22632074,
+        "priceRange": 4999,
+        "price": 3599,
+        "estimatedPrice": 3599,
+        "contractId": 10389,
+        "visitType": [
+        "HomeVisit"
+        ],
+        "currentVisitType": "HomeVisit"
+    },
+    {
+        "packageType": "Investigation",
+        "packageName": "SARS COV RTPCR - SWAB",
+        "packageDisplayName": "Covid RT PCR - SWAB",
+        "packageCode": "BM0114",
+        "description": "",
+        "discount": 42,
+        "isSponsored": false,
+        "minAge": 0,
+        "maxAge": 98,
+        "gender": "Both",
+        "testCount": 0,
+        "consultationCount": 0,
+        "isHomeSampleAvailable": true,
+        "isRadiologyIncluded": false,
+        "isPopular": true,
+        "isCovidTest": true,
+        "cartId": 0,
+        "isPresentInCart": false,
+        "isAvailable": true,
+        "discountInfo": {
+        "discountPrice": 0
+        },
+        "isCenterVisitPackage": false,
+        "subCategories": [
+        "COVID 19"
+        ],
+        "instructions": [],
+        "tags": {
+        "topRightTag": ""
+        },
+        "reportsTatText": "Reports in 24-48 hrs",
+        "packageId": 17879937,
+        "priceRange": 1399,
+        "price": 799,
+        "estimatedPrice": 799,
+        "contractId": 10389,
+        "discountRuleId": "665046394986a4ea97d9cc0a",
+        "visitType": [
+        "LabVisit",
+        "HomeVisit"
+        ],
+        "currentVisitType": "HomeVisit"
+    },
+    
+  {
+    "packageType": "HealthChecks",
+    "packageName": "MediBuddy Basic Health Checkup",
+    "packageDisplayName": "MediBuddy Basic Health Checkup",
+    "packageCode": "MB001",
+    "description": "",
+    "discount": 52,
+    "isSponsored": false,
+    "minAge": 15,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 59,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0,
+      "saleName": "Health Pe Wealth Sale",
+      "coupon": "MBLAB"
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "KIDNEY",
+      "LIVER",
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": "",
+      "bottomTag": [
+        "Hurry! Flat 10% Off",
+        "Coupon code is LABS10"
+      ]
+    },
+    "fastingHoursText": "10 - 12 Hrs",
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "testsSummary": [
+      "Complete Blood Count (CBC) - EDTA Whole Blood",
+      "Complete Urine Examination (CUE) - Spot Urine"
+    ],
+    "packageId": 17910027,
+    "priceRange": 2299,
+    "price": 1099,
+    "estimatedPrice": 1099,
+    "contractId": 10386,
+    "visitType": [
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "HealthChecks",
+    "packageName": "MediBuddy Full body Health Checkup",
+    "packageDisplayName": "MediBuddy Full body Health Checkup",
+    "packageCode": "MB002",
+    "description": "",
+    "discount": 38,
+    "isSponsored": false,
+    "minAge": 15,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 81,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "POPULAR",
+      "LIVER",
+      "FULL BODY CHECK UP"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": "",
+      "bottomTag": [
+        "Hurry! Flat 10% Off",
+        "Coupon code is LABS10"
+      ]
+    },
+    "fastingHoursText": "10 - 12 Hrs",
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "testsSummary": [
+      "Thyroid & Lipid Profile",
+      "Kidney & Liver function tests"
+    ],
+    "packageId": 17910028,
+    "priceRange": 2599,
+    "price": 1599,
+    "estimatedPrice": 1599,
+    "contractId": 10386,
+    "visitType": [
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "HealthChecks",
+    "packageName": "Comprehensive full body checkup with Vitamin D & B12",
+    "packageDisplayName": "Comprehensive full body checkup with Vitamin D & B12",
+    "packageCode": "MB0271",
+    "description": "",
+    "discount": 48,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 85,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "FULL BODY CHECK UP",
+      "VITAMIN",
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": "",
+      "bottomTag": [
+        "Hurry! Flat 10% Off",
+        "Coupon code is LABS10"
+      ]
+    },
+    "fastingHoursText": "10 - 12 Hrs",
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "testsSummary": [
+      "Vitamin D & B12",
+      "Thyroid & Lipid profile"
+    ],
+    "packageId": 18900626,
+    "priceRange": 4999,
+    "price": 2599,
+    "estimatedPrice": 2599,
+    "contractId": 10386,
+    "visitType": [
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "HealthChecks",
+    "packageName": "Medibuddy Full Body Essential Checkup",
+    "packageDisplayName": "Medibuddy Full Body Essential Checkup",
+    "packageCode": "MB0401",
+    "description": "",
+    "discount": 33,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 64,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "POPULAR",
+      "FULL BODY CHECK UP"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": "",
+      "bottomTag": [
+        "Hurry! Flat 10% Off",
+        "Coupon code is LABS10"
+      ]
+    },
+    "fastingHoursText": "Not Required",
+    "reportsTatText": "Reports in 6-8 Hours",
+    "testsSummary": [
+      "Urine Examination",
+      "Kidney & Liver Function Test"
+    ],
+    "packageId": 24550984,
+    "priceRange": 4499,
+    "price": 2999,
+    "estimatedPrice": 2999,
+    "contractId": 10386,
+    "visitType": [
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "HealthChecks",
+    "packageName": "Medibuddy Fit health check-up",
+    "packageDisplayName": "Medibuddy Fit health check-up",
+    "packageCode": "MB0405",
+    "description": "",
+    "discount": 51,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 85,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "POPULAR",
+      "FULL BODY CHECK UP"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": "",
+      "bottomTag": [
+        "Hurry! Flat 10% Off",
+        "Coupon code is LABS10"
+      ]
+    },
+    "fastingHoursText": "10 - 12 Hrs",
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "testsSummary": [
+      "Iron Studies",
+      "HBA1C"
+    ],
+    "packageId": 24550992,
+    "priceRange": 2899,
+    "price": 1399,
+    "estimatedPrice": 1399,
+    "contractId": 10386,
+    "visitType": [
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "HealthChecks",
+    "packageName": "MediBuddy Basic Health Checkup",
+    "packageDisplayName": "MediBuddy  Basic Health Checkup",
+    "packageCode": "MB001",
+    "description": "",
+    "discount": 52,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 59,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": "",
+      "bottomTag": [
+        "Hurry! Flat 10% Off",
+        "Coupon code is LABS10"
+      ]
+    },
+    "fastingHoursText": "10 - 12 Hrs",
+    "reportsTatText": "Reports in 8 - 10 Hrs",
+    "testsSummary": [
+      "Complete Blood Count",
+      "Kidney Function test (KFT)"
+    ],
+    "packageId": 21369100,
+    "priceRange": 2299,
+    "price": 1099,
+    "estimatedPrice": 1099,
+    "contractId": 10386,
+    "visitType": [
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "HealthChecks",
+    "packageName": "MediBuddy Young Female Health Checkup",
+    "packageDisplayName": "Women’s Staying Strong Health Checkup",
+    "packageCode": "MB008",
+    "description": "",
+    "discount": 57,
+    "isSponsored": false,
+    "minAge": 18,
+    "maxAge": 40,
+    "gender": "Female",
+    "testCount": 92,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "WOMEN HEALTH"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": "",
+      "bottomTag": [
+        "Hurry! Flat 10% Off",
+        "Coupon code is LABS10"
+      ]
+    },
+    "fastingHoursText": "10 - 12 Hrs",
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "testsSummary": [
+      "Complete Blood Count (CBC) - EDTA Whole Blood",
+      "Complete Urine Examination (CUE) - Spot Urine"
+    ],
+    "packageId": 17910034,
+    "priceRange": 6999,
+    "price": 2999,
+    "estimatedPrice": 2999,
+    "contractId": 10386,
+    "visitType": [
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "HealthChecks",
+    "packageName": "Medibuddy Swift Health Checkup",
+    "packageDisplayName": "Medibuddy Swift Health Checkup",
+    "packageCode": "MB0279",
+    "description": "",
+    "discount": 35,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 44,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": "",
+      "bottomTag": [
+        "Hurry! Flat 10% Off",
+        "Coupon code is LABS10"
+      ]
+    },
+    "fastingHoursText": "06 - 08 Hrs",
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "testsSummary": [
+      "Complete Blood Count (CBC) - EDTA Whole Blood",
+      "Complete Urine Examination (CUE) - Spot Urine"
+    ],
+    "packageId": 19554901,
+    "priceRange": 1999,
+    "price": 1299,
+    "estimatedPrice": 1299,
+    "contractId": 10386,
+    "visitType": [
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "HealthChecks",
+    "packageName": "Women's Day Special Health Checkup Package",
+    "packageDisplayName": " Women's Primary Prevention Health Checkup",
+    "packageCode": "MB0270",
+    "description": "",
+    "discount": 55,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 88,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "WOMEN HEALTH",
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": "",
+      "bottomTag": [
+        "Hurry! Flat 10% Off",
+        "Coupon code is LABS10"
+      ]
+    },
+    "fastingHoursText": "10 - 12 Hrs",
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "testsSummary": [
+      "Iron Urea Uric Acid - Serum",
+      "Vitamin D & B12"
+    ],
+    "packageId": 18900625,
+    "priceRange": 4499,
+    "price": 1999,
+    "estimatedPrice": 1999,
+    "contractId": 10386,
+    "visitType": [
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "HealthChecks",
+    "packageName": "MediBuddy Advance Health Checkup",
+    "packageDisplayName": "MediBuddy Advance Health Checkup",
+    "packageCode": "MB003",
+    "description": "",
+    "discount": 51,
+    "isSponsored": false,
+    "minAge": 15,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 82,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "LIVER",
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": "",
+      "bottomTag": [
+        "Hurry! Flat 10% Off",
+        "Coupon code is LABS10"
+      ]
+    },
+    "fastingHoursText": "06 - 08 Hrs",
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "testsSummary": [
+      "Calcium Phosphorus - Serum",
+      "Glycosylated Hemoglobin"
+    ],
+    "packageId": 17910029,
+    "priceRange": 3299,
+    "price": 1599,
+    "estimatedPrice": 1599,
+    "contractId": 10386,
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "HealthChecks",
+    "packageName": "Smokers Health Checkup",
+    "packageDisplayName": "Smokers Health Checkup",
+    "packageCode": "MB0296",
+    "description": "",
+    "discount": 54,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 72,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "SMOKERS"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": "",
+      "bottomTag": [
+        "Hurry! Flat 10% Off",
+        "Coupon code is LABS10"
+      ]
+    },
+    "fastingHoursText": "06 - 08 Hrs",
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "testsSummary": [
+      "Glycosylated Hemoglobin (HBA1c ) - EDTA Whole Blood",
+      "Haemogram  (CBC+ESR) - EDTA Whole Blood"
+    ],
+    "packageId": 19664409,
+    "priceRange": 4799,
+    "price": 2199,
+    "estimatedPrice": 2199,
+    "contractId": 10386,
+    "visitType": [
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "HealthChecks",
+    "packageName": "Joint Pain Package",
+    "packageDisplayName": "Joint Pain Package",
+    "packageCode": "MB0299",
+    "description": "",
+    "discount": 33,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 69,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "JOINT"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": "",
+      "bottomTag": [
+        "Hurry! Flat 10% Off",
+        "Coupon code is LABS10"
+      ]
+    },
+    "fastingHoursText": "06 - 08 Hrs",
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "testsSummary": [
+      "Complete Blood Count (CBC with P.Smear) - EDTA Whole Blood",
+      "Glycosylated Hemoglobin (HBA1c ) - EDTA Whole Blood"
+    ],
+    "packageId": 19664412,
+    "priceRange": 2999,
+    "price": 1999,
+    "estimatedPrice": 1999,
+    "contractId": 10386,
+    "visitType": [
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "HealthChecks",
+    "packageName": "Hair Care Package",
+    "packageDisplayName": "Hair Care Package",
+    "packageCode": "MB0292",
+    "description": "",
+    "discount": 54,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 35,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "HAIR CARE"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": "",
+      "bottomTag": [
+        "Hurry! Flat 10% Off",
+        "Coupon code is LABS10"
+      ]
+    },
+    "fastingHoursText": "06 - 08 Hrs",
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "testsSummary": [
+      "Haemogram (CBC+ESR)",
+      "Glycosylated Haemoglobin"
+    ],
+    "packageId": 19664414,
+    "priceRange": 3299,
+    "price": 1499,
+    "estimatedPrice": 1499,
+    "contractId": 10386,
+    "visitType": [
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "HealthChecks",
+    "packageName": "STD Panel",
+    "packageDisplayName": "STD Panel",
+    "packageCode": "MB0289",
+    "description": "",
+    "discount": 52,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 5,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "SEXUAL WELLNESS"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": "",
+      "bottomTag": [
+        "Hurry! Flat 10% Off",
+        "Coupon code is LABS10"
+      ]
+    },
+    "fastingHoursText": "06 - 08 Hrs",
+    "reportsTatText": "Reports in 10 Days",
+    "testsSummary": [
+      "Chlamydia Antibodies IgG - Serum",
+      "Herpes Simplex Virus 1 & 2 IgG - Serum"
+    ],
+    "packageId": 19664406,
+    "priceRange": 5299,
+    "price": 2499,
+    "estimatedPrice": 2499,
+    "contractId": 10386,
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "HealthChecks",
+    "packageName": "Hormone Profile - Female",
+    "packageDisplayName": "Hormone Profile - Female",
+    "packageCode": "MB0291",
+    "description": "",
+    "discount": 55,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 9,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "WOMEN HEALTH"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": "",
+      "bottomTag": [
+        "Hurry! Flat 10% Off",
+        "Coupon code is LABS10"
+      ]
+    },
+    "fastingHoursText": "06 - 08 Hrs",
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "testsSummary": [
+      "Thyroid Profile (T3,T4 & TSH) - Serum",
+      "Anti Mullerian Hormone (AMH) - Serum"
+    ],
+    "packageId": 19664411,
+    "priceRange": 4499,
+    "price": 1999,
+    "estimatedPrice": 1999,
+    "contractId": 10386,
+    "visitType": [
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "HealthChecks",
+    "packageName": "Weight Management Package",
+    "packageDisplayName": "Weight Management Package",
+    "packageCode": "MB0294",
+    "description": "",
+    "discount": 56,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 49,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "WEIGHT"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": "",
+      "bottomTag": [
+        "Hurry! Flat 10% Off",
+        "Coupon code is LABS10"
+      ]
+    },
+    "fastingHoursText": "10 - 12 Hrs",
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "testsSummary": [
+      "Complete Blood Count (CBC with P.Smear) - EDTA Whole Blood",
+      "Glycosylated Hemoglobin (HBA1c ) - EDTA Whole Blood"
+    ],
+    "packageId": 19664405,
+    "priceRange": 6499,
+    "price": 2799,
+    "estimatedPrice": 2799,
+    "contractId": 10386,
+    "visitType": [
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "HealthChecks",
+    "packageName": "MediBuddy Diabetes Screening",
+    "packageDisplayName": "MediBuddy Diabetes Screening",
+    "packageCode": "MB031",
+    "description": "",
+    "discount": 53,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 54,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "DIABETES",
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": "",
+      "bottomTag": [
+        "Hurry! Flat 10% Off",
+        "Coupon code is LABS10"
+      ]
+    },
+    "fastingHoursText": "10 - 12 Hrs",
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "testsSummary": [
+      "Glucose Fasting (FBS)",
+      "Triglycerides - Serum"
+    ],
+    "packageId": 18810502,
+    "priceRange": 2799,
+    "price": 1299,
+    "estimatedPrice": 1299,
+    "contractId": 10386,
+    "visitType": [
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "HealthChecks",
+    "packageName": "MediBuddy Young Male Health Checkup",
+    "packageDisplayName": "MediBuddy Young Male Health Checkup",
+    "packageCode": "MB007",
+    "description": "",
+    "discount": 57,
+    "isSponsored": false,
+    "minAge": 18,
+    "maxAge": 40,
+    "gender": "Male",
+    "testCount": 92,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "MEN HEALTH",
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": "",
+      "bottomTag": [
+        "Hurry! Flat 10% Off",
+        "Coupon code is LABS10"
+      ]
+    },
+    "fastingHoursText": "10 - 12 Hrs",
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "testsSummary": [
+      "Complete Blood Count (CBC) - EDTA Whole Blood",
+      "Complete Urine Examination (CUE) - Spot Urine"
+    ],
+    "packageId": 17910033,
+    "priceRange": 6999,
+    "price": 2999,
+    "estimatedPrice": 2999,
+    "contractId": 10386,
+    "visitType": [
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "HealthChecks",
+    "packageName": "MediBuddy Prime Comprehensive Health Checkup",
+    "packageDisplayName": "MediBuddy Prime Comprehensive Health Checkup",
+    "packageCode": "MB004",
+    "description": "",
+    "discount": 55,
+    "isSponsored": false,
+    "minAge": 15,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 85,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "KIDNEY",
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": "",
+      "bottomTag": [
+        "Hurry! Flat 10% Off",
+        "Coupon code is LABS10"
+      ]
+    },
+    "fastingHoursText": "10 - 12 Hrs",
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "testsSummary": [
+      "Complete Blood Count (CBC) - EDTA Whole Blood",
+      "Complete Urine Examination (CUE) - Spot Urine"
+    ],
+    "packageId": 17910030,
+    "priceRange": 4499,
+    "price": 1999,
+    "estimatedPrice": 1999,
+    "contractId": 10386,
+    "visitType": [
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "HealthChecks",
+    "packageName": "Medibuddy Swift Health Checkup",
+    "packageDisplayName": "Medibuddy Smart Health Checkup",
+    "packageCode": "MB0279",
+    "description": "",
+    "discount": 35,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 44,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": "",
+      "bottomTag": [
+        "Hurry! Flat 10% Off",
+        "Coupon code is LABS10"
+      ]
+    },
+    "fastingHoursText": "06 - 08 Hrs",
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "testsSummary": [
+      "Complete Blood Count (CBC) - EDTA Whole Blood",
+      "Complete Urine Examination (CUE) - Spot Urine"
+    ],
+    "packageId": 21369099,
+    "priceRange": 1999,
+    "price": 1299,
+    "estimatedPrice": 1299,
+    "contractId": 10386,
+    "visitType": [
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "HealthChecks",
+    "packageName": "Master Full Body Health Checkup - Male (with cancer screening)",
+    "packageDisplayName": "Master Full Body Health Checkup - Male (with cancer screening)",
+    "packageCode": "MB0272",
+    "description": "",
+    "discount": 55,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Male",
+    "testCount": 88,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "FULL BODY CHECK UP",
+      "CANCER",
+      "MEN HEALTH",
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": "",
+      "bottomTag": [
+        "Hurry! Flat 10% Off",
+        "Coupon code is LABS10"
+      ]
+    },
+    "fastingHoursText": "10 - 12 Hrs",
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "testsSummary": [
+      "Creatinine - Serum",
+      "Prostate Specific Antigen"
+    ],
+    "packageId": 18900627,
+    "priceRange": 4499,
+    "price": 1999,
+    "estimatedPrice": 1999,
+    "contractId": 10386,
+    "visitType": [
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "HealthChecks",
+    "packageName": "MediBuddy Basic Extended Health Check-up",
+    "packageDisplayName": "MediBuddy Basic Extended Health Check-up",
+    "packageCode": "MB011",
+    "description": "",
+    "discount": 52,
+    "isSponsored": false,
+    "minAge": 15,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 60,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": "",
+      "bottomTag": [
+        "Hurry! Flat 10% Off",
+        "Coupon code is LABS10"
+      ]
+    },
+    "fastingHoursText": "10 - 12 Hrs",
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "testsSummary": [
+      "Complete Blood Count (CBC) - EDTA Whole Blood",
+      "Complete Urine Examination (CUE) - Spot Urine"
+    ],
+    "packageId": 17910037,
+    "priceRange": 1899,
+    "price": 899,
+    "estimatedPrice": 899,
+    "contractId": 10386,
+    "visitType": [
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "HealthChecks",
+    "packageName": "Medibuddy Cardiac Health Package With ECG - Basic",
+    "packageDisplayName": "Medibuddy Cardiac Health Package With ECG - Basic",
+    "packageCode": "MB0287",
+    "description": "",
+    "discount": 52,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 40,
+    "gender": "Both",
+    "testCount": 52,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "HEART"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": "",
+      "bottomTag": [
+        "Hurry! Flat 10% Off",
+        "Coupon code is LABS10"
+      ]
+    },
+    "fastingHoursText": "10 - 12 Hrs",
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "testsSummary": [
+      "Complete Blood Count (CBC with P.Smear) - EDTA Whole Blood",
+      "Glycosylated Hemoglobin (HBA1c ) - EDTA Whole Blood"
+    ],
+    "packageId": 19664213,
+    "priceRange": 2099,
+    "price": 999,
+    "estimatedPrice": 999,
+    "contractId": 10386,
+    "visitType": [
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "HealthChecks",
+    "packageName": "Medibuddy Cardiac Health Package With ECG - Comprehensive",
+    "packageDisplayName": "Medibuddy Cardiac Health Package With ECG - Comprehensive",
+    "packageCode": "MB0288",
+    "description": "",
+    "discount": 52,
+    "isSponsored": false,
+    "minAge": 40,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 58,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "HEART"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": "",
+      "bottomTag": [
+        "Hurry! Flat 10% Off",
+        "Coupon code is LABS10"
+      ]
+    },
+    "fastingHoursText": "10 - 12 Hrs",
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "testsSummary": [
+      "Complete Blood Count (CBC with P.Smear) - EDTA Whole Blood",
+      "Glycosylated Hemoglobin (HBA1c ) - EDTA Whole Blood"
+    ],
+    "packageId": 19664402,
+    "priceRange": 3799,
+    "price": 1799,
+    "estimatedPrice": 1799,
+    "contractId": 10386,
+    "visitType": [
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "HealthChecks",
+    "packageName": "Hormone Profile - Male",
+    "packageDisplayName": "Hormone Profile - Male",
+    "packageCode": "MB0290",
+    "description": "",
+    "discount": 52,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 5,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "MEN HEALTH"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": "",
+      "bottomTag": [
+        "Hurry! Flat 10% Off",
+        "Coupon code is LABS10"
+      ]
+    },
+    "fastingHoursText": "06 - 08 Hrs",
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "testsSummary": [
+      "Follicle Stimulating Hormone (FSH) - Serum",
+      "Luteinizing Hormone (LH) - Serum"
+    ],
+    "packageId": 19664410,
+    "priceRange": 3999,
+    "price": 1899,
+    "estimatedPrice": 1899,
+    "contractId": 10386,
+    "visitType": [
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "HealthChecks",
+    "packageName": "Acidity Check Profile",
+    "packageDisplayName": "Acidity Check Profile",
+    "packageCode": "MB0298",
+    "description": "",
+    "discount": 50,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 42,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "KIDNEY"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": "",
+      "bottomTag": [
+        "Hurry! Flat 10% Off",
+        "Coupon code is LABS10"
+      ]
+    },
+    "fastingHoursText": "10 - 12 Hrs",
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "testsSummary": [
+      "Electrolytes (Na, K & CL) - Serum",
+      "Haemogram  (CBC+ESR) - EDTA Whole Blood"
+    ],
+    "packageId": 19664408,
+    "priceRange": 1399,
+    "price": 699,
+    "estimatedPrice": 699,
+    "contractId": 10386,
+    "visitType": [
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "HealthChecks",
+    "packageName": "MediBuddy Full Body Health Checkup",
+    "packageDisplayName": "MediBuddy Full Body Health Checkup",
+    "packageCode": "MB002",
+    "description": "",
+    "discount": 8,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 81,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": "",
+      "bottomTag": [
+        "Hurry! Flat 10% Off",
+        "Coupon code is LABS10"
+      ]
+    },
+    "fastingHoursText": "10 - 12 Hrs",
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "testsSummary": [
+      "Complete Blood Count (CBC) - EDTA Whole Blood",
+      "Complete Urine Examination (CUE) - Spot Urine"
+    ],
+    "packageId": 21369101,
+    "priceRange": 2399,
+    "price": 2199,
+    "estimatedPrice": 2199,
+    "contractId": 10386,
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "HealthChecks",
+    "packageName": "Stress Level Package",
+    "packageDisplayName": "Stress Level Package",
+    "packageCode": "MB0293",
+    "description": "",
+    "discount": 23,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 27,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": false,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": false,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "STRESS"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": "",
+      "bottomTag": [
+        "Hurry! Flat 10% Off",
+        "Coupon code is LABS10"
+      ]
+    },
+    "fastingHoursText": "10 - 12 Hrs",
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "testsSummary": [
+      "Haemogram (CBC+ESR)",
+      "Cortisol - Serum"
+    ],
+    "packageId": 19664401,
+    "priceRange": 908,
+    "price": 699,
+    "estimatedPrice": 699,
+    "contractId": 10386,
+    "visitType": []
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "25 - Hydroxy Vitamin D - Serum",
+    "packageDisplayName": "Vitamin D (25-OH)",
+    "packageCode": "BM0112",
+    "description": "",
+    "discount": 45,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 0,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 24-48 hrs",
+    "packageId": 17879935,
+    "priceRange": 1999,
+    "price": 1099,
+    "estimatedPrice": 1099,
+    "contractId": 10389,
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Vitamin B12 - Serum",
+    "packageDisplayName": "Vitamin B12 - Serum",
+    "packageCode": "BM0110",
+    "description": "",
+    "discount": 45,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 0,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "VITAMIN",
+      "BLOOD TESTS",
+      "VITAMIN B",
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 8-12 hrs",
+    "packageId": 17879933,
+    "priceRange": 1099,
+    "price": 599,
+    "estimatedPrice": 599,
+    "contractId": 10389,
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Thyroid Panel - FREE (FT3,FT4&TSH)",
+    "packageDisplayName": "Thyroid Panel - FREE (FT3,FT4&TSH)",
+    "packageCode": "MBP1021",
+    "description": "",
+    "discount": 18,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 3,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "HORMONE",
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "packageId": 19664419,
+    "priceRange": 1099,
+    "price": 899,
+    "estimatedPrice": 899,
+    "contractId": 10389,
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Glycosylated Hemoglobin (HBA1c ) - EDTA Whole Blood",
+    "packageDisplayName": "HBA1c",
+    "packageCode": "MBP1002",
+    "description": "",
+    "discount": 37,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 2,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "DIABETES",
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "packageId": 17900093,
+    "priceRange": 799,
+    "price": 499,
+    "estimatedPrice": 499,
+    "contractId": 10389,
+    "discountRuleId": "664b20074986a4ea97baf96f",
+    "visitType": [
+      "HomeVisit",
+      "LabVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Iron Studies (for Anemia Screening)",
+    "packageDisplayName": "Iron Studies (for Anemia Screening)",
+    "packageCode": "MBP1022",
+    "description": "",
+    "discount": 50,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 5,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "ANEMIA"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "packageId": 19664417,
+    "priceRange": 1099,
+    "price": 549,
+    "estimatedPrice": 549,
+    "contractId": 10389,
+    "discountRuleId": "665046344986a4ea97d9cbcd",
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Glucose Fasting (FBS) - Sodium Flouride",
+    "packageDisplayName": "Glucose Fasting (FBS) - Sodium Flouride",
+    "packageCode": "BM0053",
+    "description": "",
+    "discount": 28,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 0,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "DIABETES",
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "fastingHoursText": "10 - 12 Hrs",
+    "reportsTatText": "Reports in 8-12 hrs",
+    "packageId": 17879876,
+    "priceRange": 279,
+    "price": 200,
+    "estimatedPrice": 200,
+    "contractId": 10389,
+    "discountRuleId": "6650464f1c5f7f592c498056",
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Lipid Profile - Serum",
+    "packageDisplayName": "Lipid Profile - Serum",
+    "packageCode": "MBP1010",
+    "description": "",
+    "discount": 30,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 9,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "DIABETES",
+      "HEART",
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "packageId": 17900101,
+    "priceRange": 999,
+    "price": 699,
+    "estimatedPrice": 699,
+    "contractId": 10389,
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Complete Urine Examination (CUE) - Spot Urine",
+    "packageDisplayName": "Complete Urine Examination (CUE) - Spot Urine",
+    "packageCode": "MBP1013",
+    "description": "",
+    "discount": 35,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 20,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "FEVER",
+      "DIABETES",
+      "KIDNEY",
+      "VIRAL FEVER",
+      "POPULAR",
+      "URINE TESTS"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "packageId": 17900104,
+    "priceRange": 450,
+    "price": 290,
+    "estimatedPrice": 290,
+    "contractId": 10389,
+    "visitType": [
+      "HomeVisit",
+      "LabVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Liver Function Test (LFT) - Serum",
+    "packageDisplayName": "Liver Function Test (LFT)",
+    "packageCode": "MBP1007",
+    "description": "",
+    "discount": 30,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 12,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "DIABETES",
+      "LIVER",
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "packageId": 17900098,
+    "priceRange": 999,
+    "price": 699,
+    "estimatedPrice": 699,
+    "contractId": 10389,
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Thyroid Stimulating Hormone (TSH) - Serum ",
+    "packageDisplayName": "Thyroid Stimulating Hormone (TSH) - Serum ",
+    "packageCode": "BM0097",
+    "description": "",
+    "discount": 41,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 0,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "HORMONE",
+      "BLOOD TESTS",
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 12-24 hrs",
+    "packageId": 17879920,
+    "priceRange": 600,
+    "price": 350,
+    "estimatedPrice": 350,
+    "contractId": 10389,
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Glucose Post Prandial (PPBS) - Sodium Flouride",
+    "packageDisplayName": "Glucose Post Prandial (PPBS)",
+    "packageCode": "BM0054",
+    "description": "",
+    "discount": 40,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 0,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "DIABETES",
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 8-12 hrs",
+    "packageId": 17879877,
+    "priceRange": 399,
+    "price": 239,
+    "estimatedPrice": 239,
+    "contractId": 10389,
+    "discountRuleId": "665046371c5f7f592c497f5c",
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Complete Blood Count (CBC with P.Smear) - EDTA Whole Blood",
+    "packageDisplayName": "Complete Blood Count (CBC with P.Smear) - EDTA Whole Blood",
+    "packageCode": "MBP1016",
+    "description": "",
+    "discount": 38,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 25,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "FEVER",
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "packageId": 17900107,
+    "priceRange": 1049,
+    "price": 649,
+    "estimatedPrice": 649,
+    "contractId": 10389,
+    "discountRuleId": "665046521c5f7f592c498074",
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "KIDNEY FUNCTION TEST (KFT) - Serum",
+    "packageDisplayName": "KIDNEY FUNCTION TEST (KFT) - Serum",
+    "packageCode": "MBP1017",
+    "description": "",
+    "discount": 12,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 6,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "KIDNEY",
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "packageId": 17900108,
+    "priceRange": 799,
+    "price": 699,
+    "estimatedPrice": 699,
+    "contractId": 10389,
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Culture And Sensitivity - Spot Urine",
+    "packageDisplayName": "Culture And Sensitivity - Spot Urine",
+    "packageCode": "BM0220",
+    "description": "",
+    "discount": 36,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 0,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "URINE TESTS",
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 48-72 hrs",
+    "packageId": 17899874,
+    "priceRange": 1299,
+    "price": 829,
+    "estimatedPrice": 829,
+    "contractId": 10389,
+    "discountRuleId": "6650462c1c5f7f592c497ef5",
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Blood Grouping & Rh Type - EDTA Whole Blood",
+    "packageDisplayName": "Blood Grouping & Rh Type - EDTA Whole Blood",
+    "packageCode": "MBP1005",
+    "description": "",
+    "discount": 40,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 2,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "packageId": 17900096,
+    "priceRange": 399,
+    "price": 239,
+    "estimatedPrice": 239,
+    "contractId": 10389,
+    "discountRuleId": "665046301c5f7f592c497f12",
+    "visitType": [
+      "HomeVisit",
+      "LabVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "C-Reactive Protein (CRP) - Serum",
+    "packageDisplayName": "C-Reactive Protein (CRP) - Serum",
+    "packageCode": "BM0035",
+    "description": "",
+    "discount": 37,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 0,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "FEVER",
+      "JOINT",
+      "BLOOD TESTS",
+      "VIRAL FEVER",
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 24-48 hrs",
+    "packageId": 17879858,
+    "priceRange": 799,
+    "price": 499,
+    "estimatedPrice": 499,
+    "contractId": 10389,
+    "discountRuleId": "6650462d1c5f7f592c497efd",
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "HIV 1 & 2 Antibodies - Serum",
+    "packageDisplayName": "HIV 1 & 2 Antibodies - Serum",
+    "packageCode": "BM0062",
+    "description": "",
+    "discount": 28,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 0,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "BLOOD TESTS"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 8-12 hrs",
+    "packageId": 17879885,
+    "priceRange": 999,
+    "price": 719,
+    "estimatedPrice": 719,
+    "contractId": 10389,
+    "discountRuleId": "665046284986a4ea97d9cb6d",
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Erythrocyte Sedimentation Rate (ESR) - EDTA Whole Blood",
+    "packageDisplayName": "Erythrocyte Sedimentation Rate (ESR) - EDTA Whole Blood",
+    "packageCode": "BM0048",
+    "description": "",
+    "discount": 30,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 0,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "POPULAR",
+      "INFECTIONS"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 24-48 hrs",
+    "packageId": 17879871,
+    "priceRange": 299,
+    "price": 209,
+    "estimatedPrice": 209,
+    "contractId": 10389,
+    "discountRuleId": "6650462d4986a4ea97d9cb91",
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Calcium - Serum",
+    "packageDisplayName": "Calcium - Serum",
+    "packageCode": "BM0029",
+    "description": "",
+    "discount": 42,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 0,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "JOINT",
+      "VITAMIN",
+      "BLOOD TESTS",
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 8-12 hrs",
+    "packageId": 17879852,
+    "priceRange": 699,
+    "price": 399,
+    "estimatedPrice": 399,
+    "contractId": 10389,
+    "discountRuleId": "665046511c5f7f592c498069",
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Creatinine - Serum",
+    "packageDisplayName": "Creatinine - Serum",
+    "packageCode": "BM0038",
+    "description": "",
+    "discount": 20,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 0,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "KIDNEY",
+      "BLOOD TESTS",
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 8-12 hrs",
+    "packageId": 17879861,
+    "priceRange": 499,
+    "price": 399,
+    "estimatedPrice": 399,
+    "contractId": 10389,
+    "discountRuleId": "665046541c5f7f592c498089",
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Hepatitis B Surface Antigen (HbsAg) - Serum",
+    "packageDisplayName": "Hepatitis B Surface Antigen (HbsAg) - Serum",
+    "packageCode": "BM0060",
+    "description": "",
+    "discount": 33,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 0,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "LIVER",
+      "HEPATITIS",
+      "BLOOD TESTS"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 8-12 hrs",
+    "packageId": 17879883,
+    "priceRange": 900,
+    "price": 600,
+    "estimatedPrice": 600,
+    "contractId": 10389,
+    "discountRuleId": "665046314986a4ea97d9cbb6",
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Haemogram  (CBC+ESR) - EDTA Whole Blood",
+    "packageDisplayName": "Haemogram  (CBC+ESR) - EDTA Whole Blood",
+    "packageCode": "MBP1009",
+    "description": "",
+    "discount": 41,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 26,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "FEVER",
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 24 - 48 Hrs",
+    "packageId": 17900100,
+    "priceRange": 799,
+    "price": 470,
+    "estimatedPrice": 470,
+    "contractId": 10389,
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Hemoglobin - EDTA Whole Blood",
+    "packageDisplayName": "Hemoglobin - EDTA Whole Blood",
+    "packageCode": "BM0058",
+    "description": "",
+    "discount": 36,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 0,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 8-12 hrs",
+    "packageId": 17879881,
+    "priceRange": 659,
+    "price": 419,
+    "estimatedPrice": 419,
+    "contractId": 10389,
+    "discountRuleId": "665046271c5f7f592c497eda",
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Uric Acid - Serum",
+    "packageDisplayName": "Uric Acid - Serum",
+    "packageCode": "BM0108",
+    "description": "",
+    "discount": 20,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 0,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "KIDNEY",
+      "BLOOD TESTS",
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 8-12 hrs",
+    "packageId": 17879931,
+    "priceRange": 499,
+    "price": 399,
+    "estimatedPrice": 399,
+    "contractId": 10389,
+    "discountRuleId": "665046554986a4ea97d9cd29",
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Rheumatoid Factor (RA) - Serum",
+    "packageDisplayName": "Rheumatoid Factor (RA) - Serum",
+    "packageCode": "BM0091",
+    "description": "",
+    "discount": 30,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 0,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "JOINT",
+      "BLOOD TESTS"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 8-12 hrs",
+    "packageId": 17879914,
+    "priceRange": 849,
+    "price": 594,
+    "estimatedPrice": 594,
+    "contractId": 10389,
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Thyroxine-Free(FT4) - Serum",
+    "packageDisplayName": "Thyroxine-Free(FT4) - Serum",
+    "packageCode": "BM0098",
+    "description": "",
+    "discount": 33,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 0,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "BLOOD TESTS"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 8-12 hrs",
+    "packageId": 17879921,
+    "priceRange": 587,
+    "price": 390,
+    "estimatedPrice": 390,
+    "contractId": 10389,
+    "discountRuleId": "665046304986a4ea97d9cbaf",
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Glucose Random (RBS) - Sodium Flouride",
+    "packageDisplayName": "Glucose Random (RBS) - Sodium Flouride",
+    "packageCode": "BM0055",
+    "description": "",
+    "discount": 52,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 0,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "DIABETES",
+      "POPULAR"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 24-48 hrs",
+    "packageId": 17879878,
+    "priceRange": 249,
+    "price": 119,
+    "estimatedPrice": 119,
+    "contractId": 10389,
+    "discountRuleId": "665046371c5f7f592c497f61",
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Prolactin - Serum",
+    "packageDisplayName": "Prolactin - Serum",
+    "packageCode": "BM0085",
+    "description": "",
+    "discount": 29,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 0,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "BLOOD TESTS"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 8-12 hrs",
+    "packageId": 17879908,
+    "priceRange": 849,
+    "price": 599,
+    "estimatedPrice": 599,
+    "contractId": 10389,
+    "discountRuleId": "6650462e4986a4ea97d9cb96",
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Kardiogen",
+    "packageDisplayName": "Kardiogen",
+    "packageCode": "BM1961",
+    "description": "",
+    "discount": 15,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 0,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "15 Working Days",
+    "packageId": 28063787,
+    "priceRange": 10000,
+    "price": 8500,
+    "estimatedPrice": 8500,
+    "contractId": 10389,
+    "visitType": [
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Hypersense",
+    "packageDisplayName": "Hypersense",
+    "packageCode": "BM1964",
+    "description": "",
+    "discount": 10,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 0,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "15 Working Days",
+    "packageId": 28064217,
+    "priceRange": 9500,
+    "price": 8500,
+    "estimatedPrice": 8500,
+    "contractId": 10389,
+    "visitType": [
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Diabetogen",
+    "packageDisplayName": "Diabetogen",
+    "packageCode": "BM1962",
+    "description": "",
+    "discount": 10,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 0,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "15 Working Days",
+    "packageId": 28063790,
+    "priceRange": 9500,
+    "price": 8500,
+    "estimatedPrice": 8500,
+    "contractId": 10389,
+    "visitType": [
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Nicotine (Cotinine) - Quantitative, Serum",
+    "packageDisplayName": "Nicotine (Cotinine) - Quantitative, Serum",
+    "packageCode": "BM0858",
+    "description": "",
+    "discount": 23,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 0,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": true,
+    "isRadiologyIncluded": false,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [
+      "BLOOD TESTS"
+    ],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 24-48 hrs",
+    "packageId": 19648006,
+    "priceRange": 2457,
+    "price": 1890,
+    "estimatedPrice": 1890,
+    "contractId": 10389,
+    "visitType": [
+      "LabVisit",
+      "HomeVisit"
+    ],
+    "currentVisitType": "HomeVisit"
+  },
+  {
+    "packageType": "Investigation",
+    "packageName": "Electrocardiogram (ECG)",
+    "packageDisplayName": "Electrocardiogram (ECG)",
+    "packageCode": "MBR0879",
+    "description": "",
+    "discount": 23,
+    "isSponsored": false,
+    "minAge": 0,
+    "maxAge": 99,
+    "gender": "Both",
+    "testCount": 0,
+    "consultationCount": 0,
+    "isHomeSampleAvailable": false,
+    "isRadiologyIncluded": true,
+    "isPopular": true,
+    "isCovidTest": false,
+    "cartId": 0,
+    "isPresentInCart": false,
+    "isAvailable": true,
+    "discountInfo": {
+      "discountPrice": 0
+    },
+    "isCenterVisitPackage": false,
+    "subCategories": [],
+    "instructions": [],
+    "tags": {
+      "topRightTag": ""
+    },
+    "reportsTatText": "Reports in 0-2 hrs",
+    "packageId": 18264878,
+    "priceRange": 325,
+    "price": 250,
+    "estimatedPrice": 250,
+    "contractId": 10389,
+    "visitType": [
+      "LabVisit"
+    ],
+    "currentVisitType": "LabVisit"
+  }
+]
